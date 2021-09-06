@@ -14,7 +14,5 @@ termed as Independent Columns. Our approach was to clean data, perform EDA and
 gain insights, and train model. While doing EDA we made pair-plot of the variables
 but as you might have seen it isn’t linear. We used RFE and VIF to do feature
 selection. For 1st model we tried regression but got R-square value go 45% which
-was far from good. Then we tried Decision tree regressor which gave a better result
-
-which was 0.87 and on further boosting and hyper parameter tuning our overall R-
+was far from good. Then we tried Decision tree regressor which gave a better result which was 0.87 and on further boosting and hyper parameter tuning our overall R-
 square reached around 91% which was quite good.
