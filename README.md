@@ -3,7 +3,7 @@
 
 
 
-## 1. Introduction
+## Introduction
 
 Seoul city provide rental bike to their people for certain amount for certain period
 of time. But, the demand for bikes fluctuates with different conditions and so they aren’t
@@ -11,6 +11,7 @@ able to keep up with it. Our model aims at predicting Rented Bike demand at any 
 considering all conditions which will help them to manage the flow of bikes.
 We will examine which machine leaning algorithms suits best with data along
 with selection of features which have major impact in rented bike demand.
+
 ## 1. Problem Statement
 
 Currently Rental bikes are introduced in many urban cities for the enhancement
